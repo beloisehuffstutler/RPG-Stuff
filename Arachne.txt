@@ -1,0 +1,51 @@
+Arachne
+Pure-bred arachne are born between two arachne parents or a humanoid being graced/cursed with the power of a spider goddess, while the more commonly found “hybrid” Arachne are born between an Arachne and a non-Arachne humanoid. Arachne are powerful warriors and agile hunters, capable of operating in a wide range of terrain but a fairly narrow climate. Their domineering presence on the battlefield is enough to intimidate the hardiest of warriors, and they’re no stranger to a violent bloodbath. An Arachne is the bane of unwary travellers and fledgeling adventurers. Others are vain but flattering, making their names as diplomats or aristocrats. They are an ally’s greatest asset and an enemy’s worst nightmare.
+
+Physical Description
+Arachne are half-humanoid spider hybrids, with their lower body resembling that of a large eight-legged spider, belonging to their arachne parent, and the upper body resembling their non-Arachne parent, whether they be human, elf, dwarf, orc, or another. Arachne stand on at roughly 7 feet tall on average. Their spider’s half retains the attributes of the species of spider they belong to. Commonly found arachne sub-species includes wolf spiders, jumping spiders, and widow spiders. Arachne are much more likely to be female at birth, giving the impression that all arachne are female when in reality male arachne are simply much rarer.
+
+Society
+Most arachne are solitary by nature and prefer living on their own, whether on the fringes of the city or the depths of the wilderness. Most arachne are seen with fear and disgust and have become accustomed to hostile met by strangers and travellers, developing a darker, more cynical world view. On the rare occasion, an arachne will be met with hospitality and will live with other races in small villages serving as wilderness guides, weavers, builders, and alchemists.
+
+Arachne Names
+Arachne claim a wide variety of names, usually pertaining to the non-arachne parent they belonged to, while the pure-bred arachne usually refer to each other in their arachnid tongue, comprised of soft clicks and chirps, with no actual meaning in Common. Pure-bred arachne are thus usually given nicknames by the other races in common.
+
+Arachne Traits
+
+Design Note: It is highly recommended that you use the Large_Player_Characters_(5e_Variant_Rule) for balance purposes.
+
+Creatures with the upper torso of a humanoid and lower torso of a spider.
+
+Ability Score Increase. Your Dexterity score increases by 2, and your Wisdom score increases by 1.
+
+Age. Arachne, much like spiders, mature quickly, becoming adults at the age of 2 or 3 and having lifespans comparable to humans'.
+
+Alignment. Arachne don't tend toward any particular alignment. The best and the worst are found among them.
+
+Size. Arachne can be up to 7-8 feet tall and almost as wide. Your size is Large.
+
+Speed. Your base walking speed is 30 feet.
+
+Spider Half. Even though your size is Large, your upper, humanoid torso is still of similar scale to that of other humanoid races. You count as Medium for the purposes of wielding weapons. In addition, due to your lower body you cannot make use of mounts.
+
+Darkvision. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+
+Arachne's Lore. You gain proficiency in one skill of your choice, from: Acrobatics, Intimidation, Perception, Stealth, or Survival.
+Monstrous Nature. Your creature type is considered to be both humanoid and monstrosity.
+
+Spider Walk. You have a climb speed equal to your walking speed. You can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check. Additionally, you ignore movement restrictions caused by webbing.
+Webbing. You can cast the spell web twice. Wisdom is your spellcasting ability for this spell. Once you do so, you can't cast it again until you finish a short or long rest.
+Languages. You can speak, read, and write Common and Undercommon.
+
+Random Height and Weight
+
+Table: Arachne Random Height and Weight
+
+6′ 8″	+2d12	150 lb.	× (2d4) lb.
+
+Ravnica Changes:
+
+1) Size is medium.
+2) You need to take the Trait "Powerful Build"
+3) Web only gets 1 Cast per day
+4) Use CON instead of WIS for Web Cast.
